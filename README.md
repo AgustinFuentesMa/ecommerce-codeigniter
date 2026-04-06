@@ -1,27 +1,30 @@
 # Ecommerce con CodeIgniter
 
-Proyecto final desarrollado con:
-
-- PHP
-- MySQL
-- CodeIgniter 3
-- Bootstrap
+## Descripción
+Aplicación web ecommerce desarrollada con CodeIgniter (MVC), que permite gestionar productos y usuarios.
 
 ## Funcionalidades
-
 - Listado de productos desde base de datos
-- Detalle de producto
+- Vista de detalle de producto
 - Registro de usuarios
 - Login con validación
-- Control de sesión
+- Manejo de sesiones
 
-## Cómo ejecutar
+## Tecnologías
+- PHP
+- CodeIgniter 3
+- MySQL
+- Bootstrap
 
-1. Copiar en htdocs (XAMPP)
-2. Importar base de datos
-3. Ejecutar en:
-http://localhost/ecommerce
+## Instalación
+1. Clonar el repositorio
+2. Importar la base de datos
+3. Configurar base_url en config.php
+4. Ejecutar en XAMPP:
+   http://localhost/ecommerce
+
+## Demo online
+http://ecommerce-agustinfm.infinityfreeapp.com/
 
 ## Autor
-
 Agustín Fuentes Martinez
